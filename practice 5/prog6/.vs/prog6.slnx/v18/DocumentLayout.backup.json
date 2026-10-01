@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diwer\\OneDrive\\Desktop\\projects\\nika\\prog6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7EAD60-533C-4598-998A-28AEEEC31935}|prog6.pyproj|C:\\Users\\diwer\\OneDrive\\Desktop\\projects\\nika\\prog6\\prog6.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F7EAD60-533C-4598-998A-28AEEEC31935}|prog6.pyproj|solutionrelative:prog6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prog6.py",
+              "DocumentMoniker": "C:\\Users\\diwer\\OneDrive\\Desktop\\projects\\nika\\prog6\\prog6.py",
+              "RelativeDocumentMoniker": "prog6.py",
+              "ToolTip": "C:\\Users\\diwer\\OneDrive\\Desktop\\projects\\nika\\prog6\\prog6.py",
+              "RelativeToolTip": "prog6.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-10-01T08:50:49.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diwer\\OneDrive\\Desktop\\projects\\nika\\prog3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DD8BCB-B062-4E60-8930-33FF61D45BF9}|prog3.pyproj|C:\\Users\\diwer\\OneDrive\\Desktop\\projects\\nika\\prog3\\prog3.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F9DD8BCB-B062-4E60-8930-33FF61D45BF9}|prog3.pyproj|solutionrelative:prog3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prog3.py",
+              "DocumentMoniker": "C:\\Users\\diwer\\OneDrive\\Desktop\\projects\\nika\\prog3\\prog3.py",
+              "RelativeDocumentMoniker": "prog3.py",
+              "ToolTip": "C:\\Users\\diwer\\OneDrive\\Desktop\\projects\\nika\\prog3\\prog3.py",
+              "RelativeToolTip": "prog3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-10-01T08:12:52.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
